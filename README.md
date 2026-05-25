@@ -31,15 +31,6 @@ Logical Triangle Frontend is a professional-grade web application that demonstra
 
 ## Getting Started
 
-### Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/Meherab-32816/ltc.git
-cd ltc
-npm install
-```
 
 ### Development
 
