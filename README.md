@@ -44,7 +44,7 @@ The project was developed with emphasis on:
 
 ### Services Section
 
-![LTC Services](./screenshots/ltc-services.png)
+![LTC Services](./screenshots/ltc-products-services.png)
 
 ### Products / Solutions Section
 
@@ -58,9 +58,7 @@ The project was developed with emphasis on:
 
 ![LTC Contact](./screenshots/ltc-contact.png)
 
-### Mobile View
 
-![LTC Mobile View](./screenshots/ltc-mobile-view.png)
 
 ---
 
