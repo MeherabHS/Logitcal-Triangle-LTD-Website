@@ -1,6 +1,6 @@
-# Logical Triangle Frontend
+# Logical Triangle LTD Website
 
-A modern, high-performance frontend application developed for **Logical Triangle Ltd. (LTC)**. The platform presents LTC’s technology services, software solutions, organizational identity, client-facing communication channels, and professional digital presence through a responsive, production-ready web interface.
+A modern, high-performance frontend application developed for **Logical Triangle Ltd. (LTL)**. The platform presents LTL’s technology services, software solutions, organizational identity, client-facing communication channels, and professional digital presence through a responsive, production-ready web interface.
 
 ![Logical Triangle Frontend Preview](./screenshots/ltc-homepage.png)
 
@@ -12,11 +12,6 @@ A modern, high-performance frontend application developed for **Logical Triangle
 
 ---
 
-## Repository
-
-[GitHub Repository](https://github.com/Meherab-32816/ltc)
-
----
 
 ## Overview
 
@@ -535,11 +530,8 @@ npm run type-check
 npm run build
 ```
 
-Also update this README whenever major routes, service pages, deployment settings, or contact-form configurations change.
-
----
 
 ## Version
 
 **Version:** 1.0.0
-**Repository:** https://github.com/Meherab-32816/ltc
+
