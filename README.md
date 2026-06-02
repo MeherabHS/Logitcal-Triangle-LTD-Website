@@ -42,22 +42,25 @@ The project was developed with emphasis on:
 
 ![LTC Homepage](./screenshots/ltc-homepage.png)
 
-### Services Section
+### About Hero
 
-![LTC Services](./screenshots/ltc-products-services.png)
+![LTC About Hero](./screenshots/ltc-about-hero.png)
 
-### Products / Solutions Section
+### Trusted Technology Partner Section
 
-![LTC Products and Solutions](./screenshots/ltc-products.png)
+![LTC Trusted Technology Partner](./screenshots/ltc-about-trusted-partner.png)
 
-### Portfolio / Clients Section
+### Products and Services
+
+![LTC Products and Services](./screenshots/ltc-products-services.png)
+
+### Portfolio and Clients
 
 ![LTC Portfolio and Clients](./screenshots/ltc-portfolio-clients.png)
 
-### Contact Section
+### Contact
 
 ![LTC Contact](./screenshots/ltc-contact.png)
-
 
 
 ---
